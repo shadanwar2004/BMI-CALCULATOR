@@ -14,7 +14,7 @@ A clean and interactive **BMI (Body Mass Index) Calculator** built using **HTML,
 
 **HTML5** – Semantic structure of the page.
 **CSS3** – Custom styling, layout, and media queries.
-**JavaScript (Vanilla)** – Logic for BMI calculation and dynamic DOM manipulation.
+**JavaScript** – Logic for BMI calculation and dynamic DOM manipulation.
 
 ## Future Goals
 
