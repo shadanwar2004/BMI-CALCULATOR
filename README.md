@@ -5,10 +5,10 @@ A clean and interactive **BMI (Body Mass Index) Calculator** built using **HTML,
 
 ## Features
 
-**Interactive UI** – Instantly calculates and displays the BMI and health category.
-**Responsive Design** – Works on few different screen ratios.
-**Dynamic Styling** – Color-coded feedback based on BMI result.
-**Clean Layout** – Minimalistic and user-friendly design for easy input and result reading.
+**Interactive UI** – *Instantly calculates and displays the BMI and health category.*
+**Responsive Design** – *Works on few different screen ratios.*
+**Dynamic Styling** – *Color-coded feedback based on BMI result.*
+**Clean Layout** – *Minimalistic and user-friendly design for easy input and result reading.*
 
 ## Technologies Used
 
